@@ -1,0 +1,30 @@
+C:\Users\handy\Desktop\ChatServer\Server\bin\Debug\Server.exe.config
+C:\Users\handy\Desktop\ChatServer\Server\bin\Debug\Server.exe
+C:\Users\handy\Desktop\ChatServer\Server\bin\Debug\Server.pdb
+C:\Users\handy\Desktop\ChatServer\Server\bin\Debug\ChatLibrary.dll
+C:\Users\handy\Desktop\ChatServer\Server\bin\Debug\ChatLibrary.pdb
+C:\Users\handy\Desktop\ChatServer\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\handy\Desktop\ChatServer\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\handy\Desktop\ChatServer\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\handy\Desktop\ChatServer\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\handy\Desktop\ChatServer\Server\obj\x86\Debug\Server.exe
+C:\Users\handy\Desktop\ChatServer\Server\obj\x86\Debug\Server.pdb
+C:\Users\handy\Desktop\ChatServer\Server\bin\Debug\Server.exe.manifest
+C:\Users\handy\Desktop\ChatServer\Server\bin\Debug\Server.application
+C:\Users\handy\Desktop\ChatServer\Server\obj\x86\Debug\Server.exe.manifest
+C:\Users\handy\Desktop\ChatServer\Server\obj\x86\Debug\Server.application
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\bin\Debug\Server.exe.config
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\bin\Debug\Server.exe.manifest
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\bin\Debug\Server.application
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\bin\Debug\Server.exe
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\bin\Debug\Server.pdb
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\bin\Debug\ChatLibrary.dll
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\bin\Debug\ChatLibrary.pdb
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\obj\x86\Debug\Server.Form1.resources
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\obj\x86\Debug\Server.Properties.Resources.resources
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\obj\x86\Debug\Server.exe.manifest
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\obj\x86\Debug\Server.application
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\obj\x86\Debug\Server.exe
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Server\obj\x86\Debug\Server.pdb

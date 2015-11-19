@@ -1,0 +1,26 @@
+C:\Users\handy\Desktop\ChatServer\Client\bin\Debug\Client.exe.config
+C:\Users\handy\Desktop\ChatServer\Client\bin\Debug\Client.exe
+C:\Users\handy\Desktop\ChatServer\Client\bin\Debug\Client.pdb
+C:\Users\handy\Desktop\ChatServer\Client\bin\Debug\ServerWcfService.dll
+C:\Users\handy\Desktop\ChatServer\Client\bin\Debug\ServerWcfService.pdb
+C:\Users\handy\Desktop\ChatServer\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\handy\Desktop\ChatServer\Client\obj\x86\Debug\Client.frmClient.resources
+C:\Users\handy\Desktop\ChatServer\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\handy\Desktop\ChatServer\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\handy\Desktop\ChatServer\Client\obj\x86\Debug\Client.exe
+C:\Users\handy\Desktop\ChatServer\Client\obj\x86\Debug\Client.pdb
+C:\Users\handy\Desktop\ChatServer\Client\bin\Debug\ChatLibrary.dll
+C:\Users\handy\Desktop\ChatServer\Client\bin\Debug\ChatLibrary.pdb
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Client\bin\Debug\Client.exe.config
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Client\obj\x86\Debug\Client.exe
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Client\obj\x86\Debug\Client.pdb
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Client\bin\Debug\Client.exe
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Client\bin\Debug\Client.pdb
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Client\bin\Debug\ChatLibrary.dll
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Client\bin\Debug\ServerWcfService.dll
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Client\bin\Debug\ChatLibrary.pdb
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Client\bin\Debug\ServerWcfService.pdb
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Client\obj\x86\Debug\Client.frmClient.resources
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\College\Semester 7\Sistem Terdistribusi\RPC - Sister\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
