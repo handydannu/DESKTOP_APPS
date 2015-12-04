@@ -1,0 +1,26 @@
+C:\Users\Happiness\Desktop\Tugas IMK\bin\Debug\resources.pri
+C:\Users\Happiness\Desktop\Tugas IMK\bin\Debug\AppxManifest.xml
+C:\Users\Happiness\Desktop\Tugas IMK\bin\Debug\DaftarMenuMakanan.build.appxrecipe
+C:\Users\Happiness\Desktop\Tugas IMK\bld\Debug\priconfig.xml.intermediate
+C:\Users\Happiness\Desktop\Tugas IMK\bld\Debug\layout.resfiles.intermediate
+C:\Users\Happiness\Desktop\Tugas IMK\bld\Debug\resources.resfiles.intermediate
+C:\Users\Happiness\Desktop\Tugas IMK\bld\Debug\pri.resfiles.intermediate
+C:\Users\Happiness\Desktop\Tugas IMK\bld\Debug\priconfig.xml
+C:\Users\Happiness\Desktop\Tugas IMK\bld\Debug\layout.resfiles
+C:\Users\Happiness\Desktop\Tugas IMK\bld\Debug\resources.resfiles
+C:\Users\Happiness\Desktop\Tugas IMK\bld\Debug\pri.resfiles
+C:\Users\Happiness\Desktop\Tugas IMK\bld\Debug\LanguageQualifiers.txt
+C:\Users\Happiness\Desktop\Tugas IMK\bld\Debug\ProjectArchitectures.txt
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bin\Debug\resources.pri
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bin\Debug\AppxManifest.xml
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bin\Debug\DaftarMenuMakanan.build.appxrecipe
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\priconfig.xml.intermediate
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\layout.resfiles.intermediate
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\resources.resfiles.intermediate
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\pri.resfiles.intermediate
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\priconfig.xml
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\layout.resfiles
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\resources.resfiles
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\pri.resfiles
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\LanguageQualifiers.txt
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\ProjectArchitectures.txt

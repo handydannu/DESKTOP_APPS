@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HANDY</Machine>
+    <WindowsUser>Happiness</WindowsUser>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\GeologiIMK\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\GeologiIMK\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\About\about.css">
+      <PackagePath>pages\About\about.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\groupDetail\groupDetail.css">
+      <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\groupedItems\groupedItems.css">
+      <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\preferences\Preferences.css">
+      <PackagePath>pages\preferences\Preferences.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\search\search.css">
+      <PackagePath>pages\search\search.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\data\license.xml">
+      <PackagePath>data\license.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\data\Recipes.txt">
+      <PackagePath>data\Recipes.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\DinosaurusCover.jpg">
+      <PackagePath>images\DinosaurusCover.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\tiles\Chinese_6_310_C.jpg">
+      <PackagePath>images\tiles\Chinese_6_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\tiles\duadua.jpg">
+      <PackagePath>images\tiles\duadua.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\tiles\French_2_310_C.jpg">
+      <PackagePath>images\tiles\French_2_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\tiles\German_4_310_C.jpg">
+      <PackagePath>images\tiles\German_4_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\tiles\Italian_4_310_C.jpg">
+      <PackagePath>images\tiles\Italian_4_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\tiles\Italian_5_310_C.jpg">
+      <PackagePath>images\tiles\Italian_5_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\tiles\satusatu.jpg">
+      <PackagePath>images\tiles\satusatu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\W1.jpg">
+      <PackagePath>images\W1\W1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\W1Atmosfer.jpg">
+      <PackagePath>images\W1\W1Atmosfer.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\W1BatuanTertua.jpg">
+      <PackagePath>images\W1\W1BatuanTertua.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\W1BatuKarang.jpg">
+      <PackagePath>images\W1\W1BatuKarang.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\W1GempaBumiTsunami.jpg">
+      <PackagePath>images\W1\W1GempaBumiTsunami.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\W1GeologiKelautan.jpg">
+      <PackagePath>images\W1\W1GeologiKelautan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\W1KawahMeteor.jpg">
+      <PackagePath>images\W1\W1KawahMeteor.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\W1LajurLipatan.jpg">
+      <PackagePath>images\W1\W1LajurLipatan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\W1MalukuPalung.jpg">
+      <PackagePath>images\W1\W1MalukuPalung.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\W1Meteorit.jpg">
+      <PackagePath>images\W1\W1Meteorit.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\W1Nebula.jpg">
+      <PackagePath>images\W1\W1Nebula.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\W1PetaTektir.jpg">
+      <PackagePath>images\W1\W1PetaTektir.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\W1Tambang.jpg">
+      <PackagePath>images\W1\W1Tambang.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\W2.jpg">
+      <PackagePath>images\W2\W2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\W2BatuGunung.jpg">
+      <PackagePath>images\W2\W2BatuGunung.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\W2CSumberDaya.jpg">
+      <PackagePath>images\W2\W2CSumberDaya.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\W2EvolusiDaratan.jpg">
+      <PackagePath>images\W2\W2EvolusiDaratan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\W2ModelTinjauanGunung.jpg">
+      <PackagePath>images\W2\W2ModelTinjauanGunung.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\W2PergerakanLempeng.jpg">
+      <PackagePath>images\W2\W2PergerakanLempeng.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\W2PerPulau.jpg">
+      <PackagePath>images\W2\W2PerPulau.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\W2PetaGeotektonik.jpg">
+      <PackagePath>images\W2\W2PetaGeotektonik.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\W2PetaSemantikTematik.jpg">
+      <PackagePath>images\W2\W2PetaSemantikTematik.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\W2SabukGApi.jpg">
+      <PackagePath>images\W2\W2SabukGApi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\W2SejarahGunungApi.jpg">
+      <PackagePath>images\W2\W2SejarahGunungApi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\W2SumDayaMin.jpg">
+      <PackagePath>images\W2\W2SumDayaMin.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\W2Tektonik.jpg">
+      <PackagePath>images\W2\W2Tektonik.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W3\W3.jpg">
+      <PackagePath>images\W3\W3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W3\W3BatubaraDelta.jpg">
+      <PackagePath>images\W3\W3BatubaraDelta.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W3\W3MateriGunung.jpg">
+      <PackagePath>images\W3\W3MateriGunung.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W3\W3PengaruhZonaSesar.jpg">
+      <PackagePath>images\W3\W3PengaruhZonaSesar.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W3\W3SebaranGunung.jpg">
+      <PackagePath>images\W3\W3SebaranGunung.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W3\W3TipeGunung.jpg">
+      <PackagePath>images\W3\W3TipeGunung.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W4\W4.jpg">
+      <PackagePath>images\W4\W4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W4\W4AmfibiReptil.jpg">
+      <PackagePath>images\W4\W4AmfibiReptil.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W4\W4DinoKejam.jpg">
+      <PackagePath>images\W4\W4DinoKejam.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W4\W4DinoRajaBumi.jpg">
+      <PackagePath>images\W4\W4DinoRajaBumi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W4\W4DinoTerakhir.jpg">
+      <PackagePath>images\W4\W4DinoTerakhir.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W4\W4EvoDino.jpg">
+      <PackagePath>images\W4\W4EvoDino.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W4\W4Invertebrata.jpg">
+      <PackagePath>images\W4\W4Invertebrata.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W4\W4MunculHewan.jpg">
+      <PackagePath>images\W4\W4MunculHewan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W5\W5.jpg">
+      <PackagePath>images\W5\W5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W5\W5Flora.jpg">
+      <PackagePath>images\W5\W5Flora.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W5\W5KehidupanPrasejarah.jpg">
+      <PackagePath>images\W5\W5KehidupanPrasejarah.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W5\W5KingdomHidup.jpg">
+      <PackagePath>images\W5\W5KingdomHidup.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W6\W6.jpg">
+      <PackagePath>images\W6\W6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W6\W6KepalaHomosapien.jpg">
+      <PackagePath>images\W6\W6KepalaHomosapien.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W6\W6ManusiaPertama.jpg">
+      <PackagePath>images\W6\W6ManusiaPertama.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W6\W6Rekonstruksi.jpg">
+      <PackagePath>images\W6\W6Rekonstruksi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W6\W6TeoriBumi.jpg">
+      <PackagePath>images\W6\W6TeoriBumi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W7\W7.jpg">
+      <PackagePath>images\W7\W7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W7\W7Air.jpg">
+      <PackagePath>images\W7\W7Air.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W7\W7BatuBara.jpg">
+      <PackagePath>images\W7\W7BatuBara.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W7\W7MiniatureMinyak.jpg">
+      <PackagePath>images\W7\W7MiniatureMinyak.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W7\W7Minyak.jpg">
+      <PackagePath>images\W7\W7Minyak.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W7\W7PanasBumi.jpg">
+      <PackagePath>images\W7\W7PanasBumi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\WideLogo.png">
+      <PackagePath>images\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W1\Map.gif">
+      <PackagePath>images\W1\Map.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W2\Map.gif">
+      <PackagePath>images\W2\Map.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W3\Map.gif">
+      <PackagePath>images\W3\Map.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W4\Map.gif">
+      <PackagePath>images\W4\Map.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W5\Map.gif">
+      <PackagePath>images\W5\Map.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W6\Map.gif">
+      <PackagePath>images\W6\Map.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\images\W7\Map.gif">
+      <PackagePath>images\W7\Map.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\About\about.js">
+      <PackagePath>pages\About\about.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\groupDetail\groupDetail.js">
+      <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\groupedItems\groupedItems.js">
+      <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\preferences\Preferences.js">
+      <PackagePath>pages\preferences\Preferences.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\search\search.js">
+      <PackagePath>pages\search\search.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\About\about.html">
+      <PackagePath>pages\About\about.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\groupDetail\groupDetail.html">
+      <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\groupedItems\groupedItems.html">
+      <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\preferences\Preferences.html">
+      <PackagePath>pages\preferences\Preferences.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\pages\search\search.html">
+      <PackagePath>pages\search\search.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\GeologiIMK\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

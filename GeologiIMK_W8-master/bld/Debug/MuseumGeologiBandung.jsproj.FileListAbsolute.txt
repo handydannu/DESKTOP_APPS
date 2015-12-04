@@ -1,0 +1,41 @@
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bin\Debug\resources.pri
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bin\Debug\AppxManifest.xml
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bin\Debug\MuseumGeologiBandung.build.appxrecipe
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\priconfig.xml.intermediate
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\layout.resfiles.intermediate
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\resources.resfiles.intermediate
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\pri.resfiles.intermediate
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\priconfig.xml
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\layout.resfiles
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\resources.resfiles
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\pri.resfiles
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\LanguageQualifiers.txt
+C:\Users\Happiness\Desktop\Tugas IMK - Copy\bld\Debug\ProjectArchitectures.txt
+E:\GeologiIMK\bin\Debug\resources.pri
+E:\GeologiIMK\bin\Debug\AppxManifest.xml
+E:\GeologiIMK\bin\Debug\MuseumGeologiBandung.build.appxrecipe
+E:\GeologiIMK\bld\Debug\priconfig.xml.intermediate
+E:\GeologiIMK\bld\Debug\layout.resfiles.intermediate
+E:\GeologiIMK\bld\Debug\resources.resfiles.intermediate
+E:\GeologiIMK\bld\Debug\pri.resfiles.intermediate
+E:\GeologiIMK\bld\Debug\priconfig.xml
+E:\GeologiIMK\bld\Debug\layout.resfiles
+E:\GeologiIMK\bld\Debug\resources.resfiles
+E:\GeologiIMK\bld\Debug\pri.resfiles
+E:\GeologiIMK\bld\Debug\LanguageQualifiers.txt
+E:\GeologiIMK\bld\Debug\ProjectArchitectures.txt
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bin\Debug\resources.pri
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bin\Debug\AppxManifest.xml
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bin\Debug\MuseumGeologiBandung.build.appxrecipe
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bld\Debug\priconfig.xml.intermediate
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bld\Debug\layout.resfiles.intermediate
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bld\Debug\resources.resfiles.intermediate
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bld\Debug\pri.resfiles.intermediate
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bld\Debug\priconfig.xml
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bld\Debug\layout.resfiles
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bld\Debug\resources.resfiles
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bld\Debug\pri.resfiles
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bld\Debug\ProjectArchitectures.txt
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bld\Debug\qualifiers.txt
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bld\Debug\qualifiers.txt.intermediate
+E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bld\Debug\MultipleQualifiersPerDimensionFound.txt

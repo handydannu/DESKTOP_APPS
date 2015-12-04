@@ -1,0 +1,22 @@
+C:\Users\Happiness\Downloads\Files for Store\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bin\Debug\resources.pri
+C:\Users\Happiness\Downloads\Files for Store\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bin\Debug\AppxManifest.xml
+C:\Users\Happiness\Downloads\Files for Store\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bin\Debug\ContosoCookbook.build.appxrecipe
+C:\Users\Happiness\Downloads\Files for Store\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\priconfig.xml.intermediate
+C:\Users\Happiness\Downloads\Files for Store\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\layout.resfiles.intermediate
+C:\Users\Happiness\Downloads\Files for Store\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\resources.resfiles.intermediate
+C:\Users\Happiness\Downloads\Files for Store\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\pri.resfiles.intermediate
+C:\Users\Happiness\Downloads\Files for Store\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\priconfig.xml
+C:\Users\Happiness\Downloads\Files for Store\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\layout.resfiles
+C:\Users\Happiness\Downloads\Files for Store\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\resources.resfiles
+C:\Users\Happiness\Downloads\Files for Store\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\pri.resfiles
+C:\Users\Happiness\Downloads\Files for Store\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\LanguageQualifiers.txt
+C:\Users\Happiness\Downloads\Files for Store\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\ProjectArchitectures.txt
+E:\Windows 8 Stuff\Files for WindowsStore\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bin\Debug\resources.pri
+E:\Windows 8 Stuff\Files for WindowsStore\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bin\Debug\AppxManifest.xml
+E:\Windows 8 Stuff\Files for WindowsStore\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bin\Debug\ContosoCookbook.build.appxrecipe
+E:\Windows 8 Stuff\Files for WindowsStore\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\priconfig.xml
+E:\Windows 8 Stuff\Files for WindowsStore\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\layout.resfiles
+E:\Windows 8 Stuff\Files for WindowsStore\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\resources.resfiles
+E:\Windows 8 Stuff\Files for WindowsStore\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\pri.resfiles
+E:\Windows 8 Stuff\Files for WindowsStore\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\LanguageQualifiers.txt
+E:\Windows 8 Stuff\Files for WindowsStore\JavaScript_HTML\Lab 8 - The Windows Store APIs\Solution\ContosoCookbook\bld\Debug\ProjectArchitectures.txt
