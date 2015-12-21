@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HANDY</Machine>
+    <WindowsUser>Happiness</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\About\about.css">
+      <PackagePath>pages\About\about.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\groupDetail\groupDetail.css">
+      <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\groupedItems\groupedItems.css">
+      <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\preferences\Preferences.css">
+      <PackagePath>pages\preferences\Preferences.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\search\search.css">
+      <PackagePath>pages\search\search.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\data\license.xml">
+      <PackagePath>data\license.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\data\Recipes.txt">
+      <PackagePath>data\Recipes.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\AvocadoCinno.jpg">
+      <PackagePath>images\Beverages\AvocadoCinno.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\BananaCinno.JPG">
+      <PackagePath>images\Beverages\BananaCinno.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\BananaTempuraIceCream.jpg">
+      <PackagePath>images\Beverages\BananaTempuraIceCream.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\Beverages.jpg">
+      <PackagePath>images\Beverages\Beverages.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\BlendedCappucino.jpg">
+      <PackagePath>images\Beverages\BlendedCappucino.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\FruitTea.jpg">
+      <PackagePath>images\Beverages\FruitTea.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\IcedMilkTea.jpg">
+      <PackagePath>images\Beverages\IcedMilkTea.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\JusJeruk.jpg">
+      <PackagePath>images\Beverages\JusJeruk.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\JusLeci.jpg">
+      <PackagePath>images\Beverages\JusLeci.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\JusMelon.JPG">
+      <PackagePath>images\Beverages\JusMelon.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\MangoCinno.JPG">
+      <PackagePath>images\Beverages\MangoCinno.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\Ocha.JPG">
+      <PackagePath>images\Beverages\Ocha.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\StrawberryMilkShake.jpg">
+      <PackagePath>images\Beverages\StrawberryMilkShake.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\TehBotol.jpg">
+      <PackagePath>images\Beverages\TehBotol.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\TehWalini.jpg">
+      <PackagePath>images\Beverages\TehWalini.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Beverages\VanillaMilkShake.JPG">
+      <PackagePath>images\Beverages\VanillaMilkShake.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Donburi\BlackPepperDonburiBeef.jpg">
+      <PackagePath>images\Donburi\BlackPepperDonburiBeef.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Donburi\BlackPepperDonburiChicken.jpg">
+      <PackagePath>images\Donburi\BlackPepperDonburiChicken.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Donburi\BlackPepperDonburiVeggies.jpg">
+      <PackagePath>images\Donburi\BlackPepperDonburiVeggies.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Donburi\Donburi.jpg">
+      <PackagePath>images\Donburi\Donburi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Donburi\OriginalDonburiVeggies.jpg">
+      <PackagePath>images\Donburi\OriginalDonburiVeggies.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Donburi\TeriyakiDonburiBeef.jpg">
+      <PackagePath>images\Donburi\TeriyakiDonburiBeef.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Donburi\TeriyakiDonburiChicken.jpg">
+      <PackagePath>images\Donburi\TeriyakiDonburiChicken.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Donburi\TeriyakiDonburiVeggies.jpg">
+      <PackagePath>images\Donburi\TeriyakiDonburiVeggies.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Lainnya\Katsudon.jpg">
+      <PackagePath>images\Lainnya\Katsudon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Lainnya\Lainnya.jpg">
+      <PackagePath>images\Lainnya\Lainnya.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Lainnya\NasiPutih.JPG">
+      <PackagePath>images\Lainnya\NasiPutih.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Lainnya\Onigiri.jpg">
+      <PackagePath>images\Lainnya\Onigiri.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Lainnya\SpicyChickenKarage.JPG">
+      <PackagePath>images\Lainnya\SpicyChickenKarage.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Lainnya\YakiOnigiri.jpg">
+      <PackagePath>images\Lainnya\YakiOnigiri.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Lainnya\YakiOnigiriSuper.jpg">
+      <PackagePath>images\Lainnya\YakiOnigiriSuper.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Ramen\BeefYakiRamen.jpg">
+      <PackagePath>images\Ramen\BeefYakiRamen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Ramen\ChickenYakiRamen.jpg">
+      <PackagePath>images\Ramen\ChickenYakiRamen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Ramen\CurryRamen.JPG">
+      <PackagePath>images\Ramen\CurryRamen.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Ramen\DenbuRamen.jpg">
+      <PackagePath>images\Ramen\DenbuRamen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Ramen\MisoRamen.JPG">
+      <PackagePath>images\Ramen\MisoRamen.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Ramen\Ramen.jpg">
+      <PackagePath>images\Ramen\Ramen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Ramen\SpicyRamen.jpg">
+      <PackagePath>images\Ramen\SpicyRamen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Ramen\SuperJumboRamen.JPG">
+      <PackagePath>images\Ramen\SuperJumboRamen.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\SendokGarpu.jpg">
+      <PackagePath>images\SendokGarpu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\AgeRoll.jpg">
+      <PackagePath>images\Sushi\AgeRoll.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\CaliforniarollSushi.JPG">
+      <PackagePath>images\Sushi\CaliforniarollSushi.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\DragonRoll.jpg">
+      <PackagePath>images\Sushi\DragonRoll.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\EbiSushi.jpg">
+      <PackagePath>images\Sushi\EbiSushi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\GyucheeseSushi.jpg">
+      <PackagePath>images\Sushi\GyucheeseSushi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\HanaRoll.jpg">
+      <PackagePath>images\Sushi\HanaRoll.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\Kanisushi.jpg">
+      <PackagePath>images\Sushi\Kanisushi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\Katsushi.JPG">
+      <PackagePath>images\Sushi\Katsushi.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\MixSushi.JPG">
+      <PackagePath>images\Sushi\MixSushi.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\SalmonrollSushi.JPG">
+      <PackagePath>images\Sushi\SalmonrollSushi.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\SpicyCheeseCob.jpg">
+      <PackagePath>images\Sushi\SpicyCheeseCob.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\Sushi.jpg">
+      <PackagePath>images\Sushi\Sushi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\Temaki.jpg">
+      <PackagePath>images\Sushi\Temaki.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Sushi\TofuKaniSushi.jpg">
+      <PackagePath>images\Sushi\TofuKaniSushi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\tiles\Chinese_6_310_C.jpg">
+      <PackagePath>images\tiles\Chinese_6_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\tiles\French_2_310_C.jpg">
+      <PackagePath>images\tiles\French_2_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\tiles\German_4_310_C.jpg">
+      <PackagePath>images\tiles\German_4_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\tiles\Italian_4_310_C.jpg">
+      <PackagePath>images\tiles\Italian_4_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\tiles\Italian_5_310_C.jpg">
+      <PackagePath>images\tiles\Italian_5_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Topping\AgedashiTofu.jpg">
+      <PackagePath>images\Topping\AgedashiTofu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Topping\BeefTeriyaki.jpg">
+      <PackagePath>images\Topping\BeefTeriyaki.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Topping\ChickenKatsu.jpg">
+      <PackagePath>images\Topping\ChickenKatsu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Topping\ChickenTeriyaki.jpg">
+      <PackagePath>images\Topping\ChickenTeriyaki.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Topping\EbiTempura.jpg">
+      <PackagePath>images\Topping\EbiTempura.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Topping\KaniStick.jpg">
+      <PackagePath>images\Topping\KaniStick.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Topping\NuggetJamur.jpg">
+      <PackagePath>images\Topping\NuggetJamur.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Topping\Sosis.JPG">
+      <PackagePath>images\Topping\Sosis.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Topping\SpicyChickenKaraage.jpg">
+      <PackagePath>images\Topping\SpicyChickenKaraage.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Topping\Tamago.jpg">
+      <PackagePath>images\Topping\Tamago.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\Topping\Topping.jpg">
+      <PackagePath>images\Topping\Topping.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\images\WideLogo.png">
+      <PackagePath>images\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\About\about.js">
+      <PackagePath>pages\About\about.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\groupDetail\groupDetail.js">
+      <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\groupedItems\groupedItems.js">
+      <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\preferences\Preferences.js">
+      <PackagePath>pages\preferences\Preferences.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\search\search.js">
+      <PackagePath>pages\search\search.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\About\about.html">
+      <PackagePath>pages\About\about.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\groupDetail\groupDetail.html">
+      <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\groupedItems\groupedItems.html">
+      <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\preferences\Preferences.html">
+      <PackagePath>pages\preferences\Preferences.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\pages\search\search.html">
+      <PackagePath>pages\search\search.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Happiness\Desktop\Tugas IMK - Copy\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

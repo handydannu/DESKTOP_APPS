@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HANDY</Machine>
+    <WindowsUser>Mr Handy D</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>BUILD.87821274-9e97-488c-b5af-69dace508bff</PackageIdentityName>
+    <RegisteredManifestChecksum>EF7520A072684A21FE2591EE428E84B1C2367C88AE638DFC732F59084BE021F4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>BUILD.87821274-9e97-488c-b5af-69dace508bff_1.8.0.4_neutral__s3rrxtz1qb9de</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>BUILD.87821274-9e97-488c-b5af-69dace508bff_s3rrxtz1qb9de!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>BUILD.87821274-9e97-488c-b5af-69dace508bff</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Handy-Development</RegisteredPackagePublisher>
+    <RegisteredVersion>1.8.0.4</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-20T15:19:55.536</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-06-02T04:52:06.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\About\about.css">
+      <PackagePath>pages\About\about.css</PackagePath>
+      <Modified>2013-04-17T09:50:49.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+      <Modified>2013-06-02T04:47:42.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\groupDetail\groupDetail.css">
+      <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
+      <Modified>2012-09-05T02:42:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\groupedItems\groupedItems.css">
+      <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
+      <Modified>2012-09-05T02:42:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\preferences\Preferences.css">
+      <PackagePath>pages\preferences\Preferences.css</PackagePath>
+      <Modified>2013-04-17T09:41:28.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\search\search.css">
+      <PackagePath>pages\search\search.css</PackagePath>
+      <Modified>2012-09-05T02:42:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\data\license.xml">
+      <PackagePath>data\license.xml</PackagePath>
+      <Modified>2013-05-31T12:05:34.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\data\Recipes.txt">
+      <PackagePath>data\Recipes.txt</PackagePath>
+      <Modified>2013-07-02T05:47:30.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\DinosaurusCover.jpg">
+      <PackagePath>images\DinosaurusCover.jpg</PackagePath>
+      <Modified>2013-06-02T03:34:52.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\tiles\Chinese_6_310_C.jpg">
+      <PackagePath>images\tiles\Chinese_6_310_C.jpg</PackagePath>
+      <Modified>2012-09-05T02:42:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\tiles\duadua.jpg">
+      <PackagePath>images\tiles\duadua.jpg</PackagePath>
+      <Modified>2013-06-02T03:29:30.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\tiles\French_2_310_C.jpg">
+      <PackagePath>images\tiles\French_2_310_C.jpg</PackagePath>
+      <Modified>2012-09-05T02:42:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\tiles\German_4_310_C.jpg">
+      <PackagePath>images\tiles\German_4_310_C.jpg</PackagePath>
+      <Modified>2012-09-05T02:42:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\tiles\Italian_4_310_C.jpg">
+      <PackagePath>images\tiles\Italian_4_310_C.jpg</PackagePath>
+      <Modified>2012-09-05T02:42:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\tiles\Italian_5_310_C.jpg">
+      <PackagePath>images\tiles\Italian_5_310_C.jpg</PackagePath>
+      <Modified>2012-09-05T02:42:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\tiles\satusatu.jpg">
+      <PackagePath>images\tiles\satusatu.jpg</PackagePath>
+      <Modified>2013-06-01T05:00:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\W1.jpg">
+      <PackagePath>images\W1\W1.jpg</PackagePath>
+      <Modified>2013-06-28T11:25:29.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\W1Atmosfer.jpg">
+      <PackagePath>images\W1\W1Atmosfer.jpg</PackagePath>
+      <Modified>2013-06-16T01:04:34.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\W1BatuanTertua.jpg">
+      <PackagePath>images\W1\W1BatuanTertua.jpg</PackagePath>
+      <Modified>2013-06-02T03:29:30.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\W1BatuKarang.jpg">
+      <PackagePath>images\W1\W1BatuKarang.jpg</PackagePath>
+      <Modified>2013-06-02T03:30:46.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\W1GempaBumiTsunami.jpg">
+      <PackagePath>images\W1\W1GempaBumiTsunami.jpg</PackagePath>
+      <Modified>2013-06-02T03:31:13.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\W1GeologiKelautan.jpg">
+      <PackagePath>images\W1\W1GeologiKelautan.jpg</PackagePath>
+      <Modified>2013-06-02T03:30:57.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\W1KawahMeteor.jpg">
+      <PackagePath>images\W1\W1KawahMeteor.jpg</PackagePath>
+      <Modified>2013-06-01T18:55:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\W1LajurLipatan.jpg">
+      <PackagePath>images\W1\W1LajurLipatan.jpg</PackagePath>
+      <Modified>2013-06-02T03:30:27.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\W1MalukuPalung.jpg">
+      <PackagePath>images\W1\W1MalukuPalung.jpg</PackagePath>
+      <Modified>2013-06-02T03:31:36.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\W1Meteorit.jpg">
+      <PackagePath>images\W1\W1Meteorit.jpg</PackagePath>
+      <Modified>2013-06-16T01:07:41.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\W1Nebula.jpg">
+      <PackagePath>images\W1\W1Nebula.jpg</PackagePath>
+      <Modified>2013-06-01T18:54:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\W1PetaTektir.jpg">
+      <PackagePath>images\W1\W1PetaTektir.jpg</PackagePath>
+      <Modified>2013-06-01T18:55:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\W1Tambang.jpg">
+      <PackagePath>images\W1\W1Tambang.jpg</PackagePath>
+      <Modified>2013-06-02T03:29:47.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\W2.jpg">
+      <PackagePath>images\W2\W2.jpg</PackagePath>
+      <Modified>2013-06-28T11:26:01.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\W2BatuGunung.jpg">
+      <PackagePath>images\W2\W2BatuGunung.jpg</PackagePath>
+      <Modified>2013-06-15T04:16:38.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\W2CSumberDaya.jpg">
+      <PackagePath>images\W2\W2CSumberDaya.jpg</PackagePath>
+      <Modified>2013-06-02T03:32:13.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\W2EvolusiDaratan.jpg">
+      <PackagePath>images\W2\W2EvolusiDaratan.jpg</PackagePath>
+      <Modified>2013-06-16T01:06:33.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\W2ModelTinjauanGunung.jpg">
+      <PackagePath>images\W2\W2ModelTinjauanGunung.jpg</PackagePath>
+      <Modified>2013-06-01T05:06:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\W2PergerakanLempeng.jpg">
+      <PackagePath>images\W2\W2PergerakanLempeng.jpg</PackagePath>
+      <Modified>2013-06-01T18:57:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\W2PerPulau.jpg">
+      <PackagePath>images\W2\W2PerPulau.jpg</PackagePath>
+      <Modified>2013-06-01T18:56:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\W2PetaGeotektonik.jpg">
+      <PackagePath>images\W2\W2PetaGeotektonik.jpg</PackagePath>
+      <Modified>2013-06-01T18:57:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\W2PetaSemantikTematik.jpg">
+      <PackagePath>images\W2\W2PetaSemantikTematik.jpg</PackagePath>
+      <Modified>2013-06-01T05:10:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\W2SabukGApi.jpg">
+      <PackagePath>images\W2\W2SabukGApi.jpg</PackagePath>
+      <Modified>2013-06-02T03:32:45.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\W2SejarahGunungApi.jpg">
+      <PackagePath>images\W2\W2SejarahGunungApi.jpg</PackagePath>
+      <Modified>2013-06-01T18:57:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\W2SumDayaMin.jpg">
+      <PackagePath>images\W2\W2SumDayaMin.jpg</PackagePath>
+      <Modified>2013-06-02T03:31:57.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\W2Tektonik.jpg">
+      <PackagePath>images\W2\W2Tektonik.jpg</PackagePath>
+      <Modified>2013-06-01T18:56:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W3\W3.jpg">
+      <PackagePath>images\W3\W3.jpg</PackagePath>
+      <Modified>2013-06-28T11:26:19.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W3\W3BatubaraDelta.jpg">
+      <PackagePath>images\W3\W3BatubaraDelta.jpg</PackagePath>
+      <Modified>2013-06-01T19:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W3\W3MateriGunung.jpg">
+      <PackagePath>images\W3\W3MateriGunung.jpg</PackagePath>
+      <Modified>2013-06-01T05:19:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W3\W3PengaruhZonaSesar.jpg">
+      <PackagePath>images\W3\W3PengaruhZonaSesar.jpg</PackagePath>
+      <Modified>2013-06-01T18:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W3\W3SebaranGunung.jpg">
+      <PackagePath>images\W3\W3SebaranGunung.jpg</PackagePath>
+      <Modified>2013-06-01T05:19:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W3\W3TipeGunung.jpg">
+      <PackagePath>images\W3\W3TipeGunung.jpg</PackagePath>
+      <Modified>2013-06-01T05:19:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W4\W4.jpg">
+      <PackagePath>images\W4\W4.jpg</PackagePath>
+      <Modified>2013-06-28T11:26:39.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W4\W4AmfibiReptil.jpg">
+      <PackagePath>images\W4\W4AmfibiReptil.jpg</PackagePath>
+      <Modified>2013-06-01T05:27:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W4\W4DinoKejam.jpg">
+      <PackagePath>images\W4\W4DinoKejam.jpg</PackagePath>
+      <Modified>2013-06-01T05:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W4\W4DinoRajaBumi.jpg">
+      <PackagePath>images\W4\W4DinoRajaBumi.jpg</PackagePath>
+      <Modified>2013-06-01T05:29:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W4\W4DinoTerakhir.jpg">
+      <PackagePath>images\W4\W4DinoTerakhir.jpg</PackagePath>
+      <Modified>2013-06-01T05:29:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W4\W4EvoDino.jpg">
+      <PackagePath>images\W4\W4EvoDino.jpg</PackagePath>
+      <Modified>2013-06-01T05:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W4\W4Invertebrata.jpg">
+      <PackagePath>images\W4\W4Invertebrata.jpg</PackagePath>
+      <Modified>2013-06-01T05:27:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W4\W4MunculHewan.jpg">
+      <PackagePath>images\W4\W4MunculHewan.jpg</PackagePath>
+      <Modified>2013-06-01T05:26:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W5\W5.jpg">
+      <PackagePath>images\W5\W5.jpg</PackagePath>
+      <Modified>2013-06-28T11:26:59.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W5\W5Flora.jpg">
+      <PackagePath>images\W5\W5Flora.jpg</PackagePath>
+      <Modified>2013-06-01T19:14:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W5\W5KehidupanPrasejarah.jpg">
+      <PackagePath>images\W5\W5KehidupanPrasejarah.jpg</PackagePath>
+      <Modified>2013-06-01T19:15:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W5\W5KingdomHidup.jpg">
+      <PackagePath>images\W5\W5KingdomHidup.jpg</PackagePath>
+      <Modified>2013-06-01T05:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W6\W6.jpg">
+      <PackagePath>images\W6\W6.jpg</PackagePath>
+      <Modified>2013-06-28T11:27:13.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W6\W6KepalaHomosapien.jpg">
+      <PackagePath>images\W6\W6KepalaHomosapien.jpg</PackagePath>
+      <Modified>2013-06-01T05:33:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W6\W6ManusiaPertama.jpg">
+      <PackagePath>images\W6\W6ManusiaPertama.jpg</PackagePath>
+      <Modified>2013-06-01T05:32:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W6\W6Rekonstruksi.jpg">
+      <PackagePath>images\W6\W6Rekonstruksi.jpg</PackagePath>
+      <Modified>2013-06-16T01:23:47.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W6\W6TeoriBumi.jpg">
+      <PackagePath>images\W6\W6TeoriBumi.jpg</PackagePath>
+      <Modified>2013-06-01T05:33:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W7\W7.jpg">
+      <PackagePath>images\W7\W7.jpg</PackagePath>
+      <Modified>2013-06-28T11:27:32.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W7\W7Air.jpg">
+      <PackagePath>images\W7\W7Air.jpg</PackagePath>
+      <Modified>2013-06-01T05:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W7\W7BatuBara.jpg">
+      <PackagePath>images\W7\W7BatuBara.jpg</PackagePath>
+      <Modified>2013-06-01T05:43:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W7\W7MiniatureMinyak.jpg">
+      <PackagePath>images\W7\W7MiniatureMinyak.jpg</PackagePath>
+      <Modified>2013-06-01T05:38:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W7\W7Minyak.jpg">
+      <PackagePath>images\W7\W7Minyak.jpg</PackagePath>
+      <Modified>2013-06-01T05:42:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W7\W7PanasBumi.jpg">
+      <PackagePath>images\W7\W7PanasBumi.jpg</PackagePath>
+      <Modified>2013-06-01T05:43:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-21T03:51:25.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-21T03:44:38.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-04T02:09:27.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2013-05-09T13:39:00.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\WideLogo.png">
+      <PackagePath>images\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-04T02:11:35.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W1\Map.gif">
+      <PackagePath>images\W1\Map.gif</PackagePath>
+      <Modified>2013-07-01T08:30:04.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W2\Map.gif">
+      <PackagePath>images\W2\Map.gif</PackagePath>
+      <Modified>2013-07-01T08:39:40.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W3\Map.gif">
+      <PackagePath>images\W3\Map.gif</PackagePath>
+      <Modified>2013-07-01T08:42:57.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W4\Map.gif">
+      <PackagePath>images\W4\Map.gif</PackagePath>
+      <Modified>2013-07-01T08:45:20.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W5\Map.gif">
+      <PackagePath>images\W5\Map.gif</PackagePath>
+      <Modified>2013-07-01T08:45:20.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W6\Map.gif">
+      <PackagePath>images\W6\Map.gif</PackagePath>
+      <Modified>2013-07-01T08:47:27.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\images\W7\Map.gif">
+      <PackagePath>images\W7\Map.gif</PackagePath>
+      <Modified>2013-07-01T08:52:55.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2013-03-18T04:23:38.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-04-17T09:42:03.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-04-17T14:13:00.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\About\about.js">
+      <PackagePath>pages\About\about.js</PackagePath>
+      <Modified>2013-05-31T12:06:54.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+      <Modified>2013-07-04T06:52:59.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\groupDetail\groupDetail.js">
+      <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
+      <Modified>2013-03-18T04:03:34.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\groupedItems\groupedItems.js">
+      <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
+      <Modified>2013-03-18T04:05:45.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\preferences\Preferences.js">
+      <PackagePath>pages\preferences\Preferences.js</PackagePath>
+      <Modified>2013-04-27T15:12:14.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\search\search.js">
+      <PackagePath>pages\search\search.js</PackagePath>
+      <Modified>2013-06-21T03:25:18.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\About\about.html">
+      <PackagePath>pages\About\about.html</PackagePath>
+      <Modified>2013-10-11T02:26:22.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+      <Modified>2013-07-04T06:53:13.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\groupDetail\groupDetail.html">
+      <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
+      <Modified>2013-06-21T03:17:57.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\groupedItems\groupedItems.html">
+      <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
+      <Modified>2013-05-31T11:51:26.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-05-31T11:44:04.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\preferences\Preferences.html">
+      <PackagePath>pages\preferences\Preferences.html</PackagePath>
+      <Modified>2013-07-04T02:11:38.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\pages\search\search.html">
+      <PackagePath>pages\search\search.html</PackagePath>
+      <Modified>2013-06-21T03:17:57.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\College\Semester 4\IMK\Tugas Besar\Coding\GeologiIMK\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-05-20T15:19:54.411</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
