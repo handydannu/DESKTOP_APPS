@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gaussain Elimination", "Gaussain Elimination.csproj", "{8BCF42D1-8664-41A0-BCCE-5DF9468F909C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8BCF42D1-8664-41A0-BCCE-5DF9468F909C}.Debug.ActiveCfg = Debug|.NET
+		{8BCF42D1-8664-41A0-BCCE-5DF9468F909C}.Debug.Build.0 = Debug|.NET
+		{8BCF42D1-8664-41A0-BCCE-5DF9468F909C}.Release.ActiveCfg = Release|.NET
+		{8BCF42D1-8664-41A0-BCCE-5DF9468F909C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\handy\Desktop\Gauss-Jordan\bin\Debug\Gaussain Elimination.exe
+C:\Users\handy\Desktop\Gauss-Jordan\bin\Debug\Gaussain Elimination.pdb
+C:\Users\handy\Desktop\Gauss-Jordan\obj\Debug\Gaussain Elimination.csprojResolveAssemblyReference.cache
+C:\Users\handy\Desktop\Gauss-Jordan\obj\Debug\Gaussain Elimination.exe
+C:\Users\handy\Desktop\Gauss-Jordan\obj\Debug\Gaussain Elimination.pdb
