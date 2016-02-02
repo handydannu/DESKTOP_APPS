@@ -1,0 +1,155 @@
+﻿.itemdetailpage .content {
+    -ms-grid-row: 1;
+    -ms-grid-row-span: 2;
+    display: block;
+    height: 100%;
+    overflow-x: auto;
+    position: relative;
+    width: 100%;
+    z-index: 0;
+    text-align:justify;
+}
+
+    .itemdetailpage .content article {
+        column-fill: auto;
+        column-gap: 80px;
+        column-width: 480px;
+        height: calc(100% - 183px);
+        margin-left: 120px;
+        margin-top: 133px;
+        margin-right: 50px;
+        
+        display: -ms-grid;
+    -ms-grid-columns: 400px 40px 360px 40px 1fr;
+
+    }
+
+        .itemdetailpage .content article header .item-title {
+            margin-bottom: 19px;
+        }
+
+        .itemdetailpage .content article header .item-subtitle {
+            margin-bottom: 16px;
+            margin-top: 0;
+        }
+
+.itemdetailpage .content article .ingredients {
+    -ms-grid-column: 3;
+    margin-left: 40px;
+}
+
+.itemdetailpage .content article .ingredients .item-ingredients {
+    margin-top: 20px;
+}
+
+.itemdetailpage .content article .ingredients .item-ingredients .ingredient {
+    padding-bottom: 12px;
+    font-size: 20px;
+}
+
+.itemdetailpage .content article .directions {
+    -ms-grid-column: 5;
+    margin-left: 40px;
+}
+
+.itemdetailpage .content article .directions .item-directions {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+        .itemdetailpage .content article .item-image {
+           margin-bottom: 3px;
+             width: 400px;
+
+        }
+
+        .itemdetailpage .content article .item-gambar {
+             position: relative;
+             width: 400px;
+
+        }
+
+        .itemdetailpage .content article .item-content p {
+            margin-top: 10px;
+            margin-bottom: 20px;
+            margin-right: 20px;
+        }
+
+@media screen and (-ms-view-state: snapped) {
+     .itemdetailpage .content {
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+
+        .itemdetailpage .content article {
+            -ms-grid-columns: 300px 1fr;
+            -ms-grid-row: 2;
+            -ms-grid-rows: 300px auto;
+            display: -ms-grid;
+            height: 100%;
+            margin-left: 20px;
+            overflow-x: hidden;
+            overflow-y: auto;
+            width: 300px;
+        }
+
+            .itemdetailpage .content article .item-image {
+                width: 280px;
+            }
+
+            .itemdetailpage .content article .item-content {
+                padding-bottom: 60px;
+            }
+
+        .itemdetailpage .content article .ingredients {
+            -ms-grid-row: 2;
+            -ms-grid-column: 1;
+            margin-left: 0px;
+            margin-top: 12px;
+        }
+        
+            .itemdetailpage .content article .ingredients .item-ingredients {
+                margin-top: 4px;
+            }
+
+            .itemdetailpage .content article .ingredients .item-ingredients .ingredient {
+                padding-bottom: 0px;
+                font-size: 9pt;
+            }
+
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+    .itemdetailpage .content article {
+        margin-left: 100px;
+    }
+
+    .itemdetailpage .content article .ingredients {
+        -ms-grid-row: 2;
+        -ms-grid-column: 1;
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+
+    .itemdetailpage .content article .directions {
+        -ms-grid-row: 3;
+        -ms-grid-column: 1;
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+
+}
+
+
+.purchase-recipes-button {
+    width: 225px;
+    height: 120px;
+    margin-top: 24px;
+    background-color: rgba(255, 255, 255, 0.2);
+    display: none ; 
+}

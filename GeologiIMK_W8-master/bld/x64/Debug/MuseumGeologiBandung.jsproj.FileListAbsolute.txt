@@ -1,0 +1,13 @@
+E:\GeologiIMK\bin\x64\Debug\resources.pri
+E:\GeologiIMK\bin\x64\Debug\AppxManifest.xml
+E:\GeologiIMK\bin\x64\Debug\MuseumGeologiBandung.build.appxrecipe
+E:\GeologiIMK\bld\x64\Debug\priconfig.xml.intermediate
+E:\GeologiIMK\bld\x64\Debug\layout.resfiles.intermediate
+E:\GeologiIMK\bld\x64\Debug\resources.resfiles.intermediate
+E:\GeologiIMK\bld\x64\Debug\pri.resfiles.intermediate
+E:\GeologiIMK\bld\x64\Debug\priconfig.xml
+E:\GeologiIMK\bld\x64\Debug\layout.resfiles
+E:\GeologiIMK\bld\x64\Debug\resources.resfiles
+E:\GeologiIMK\bld\x64\Debug\pri.resfiles
+E:\GeologiIMK\bld\x64\Debug\LanguageQualifiers.txt
+E:\GeologiIMK\bld\x64\Debug\ProjectArchitectures.txt

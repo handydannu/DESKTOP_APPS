@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Ilmu Pengetahuan Baru</title>
+
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="/css/default.css" rel="stylesheet" />
+    <link href="/pages/itemDetail/itemDetail.css" rel="stylesheet" />
+    <script src="/js/data.js"></script>
+    <script src="/pages/itemDetail/itemDetail.js"></script>
+</head>
+<body>
+    <div class="itemdetailpage fragment">
+        <header aria-label="Header content" role="banner">
+            <button class="win-backbutton" aria-label="Back" disabled type="button"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle"></span>
+            </h1>
+        </header>
+        <div class="content" aria-label="Main content" role="main">
+            <article>
+
+                <div>
+                    <header>
+                        <h2 class="item-title"></h2>                       
+                    </header>
+                    <img class="item-image" src="#" /><br />
+                    <img class="item-gambar" src="#" />
+                   <h2>Rating <span class="item-subtitle"></span> /5 </h2>  
+                    <br />
+                   
+                    </div>
+                
+                <div class="ingredients">
+            <h2>Konten</h2>
+            <div class="item-ingredients"></div>
+        </div>
+        <div class="directions">
+            <h2>Deskripsi</h2>
+            <h2 class="item-directions"></h2>
+            
+                    <br />
+                    <br />
+                    <div id="flyout" data-win-control="WinJS.UI.Flyout"><div>
+                        Email Anda : <br /><input type="text" /><br />
+                        <font size="2"><i>*) Email tidak akan dipublikasikan</i></font><br />
+                        Komentar   : <br /><textarea></textarea><br />
+                        Rating Anda Mengenai Konten : <br />
+                        <div data-win-control="WinJS.UI.Rating"></div><br />
+                        <input type="button" value="Kirim Feedback" name="kritikan"/><br />
+                        *) Feedback anda akan menjadi perbaikan bagi kami. 
+                           Terima kasih atas ketersediaan pengisiannya.</div>
+                    </div>
+
+                    <div id="showFlyout" style="width: 200px;">
+						<input type="button" name="kirim" value="Kirim Kritik / Saran">
+					</div>
+            
+        </div>
+            </article>
+            
+        </div>
+    </div>
+
+    <div id="appbar" data-win-control="WinJS.UI.AppBar">
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'brag', label:'Ambil Foto / Video Anda', icon:'camera', section:'selection', type:'flyout', flyout:'bragFlyout'}"></button>
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'pin', label:'Pin', icon:'pin', section: 'selection'}"></button>
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'remind', label:'Pengingat', icon:'clock', section: 'selection'}"></button>
+    </div>
+    <div id="bragFlyout" data-win-control="WinJS.UI.Menu">
+        <button data-win-control="WinJS.UI.MenuCommand" data-win-options="{id:'photo', label:'Ambil Photo'}"></button>
+        <button data-win-control="WinJS.UI.MenuCommand" data-win-options="{id:'video', label:'Ambil Video' }"></button>             
+    </div>
+
+</body>
+</html>
