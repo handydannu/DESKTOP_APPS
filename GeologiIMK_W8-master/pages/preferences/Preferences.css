@@ -1,0 +1,21 @@
+﻿.Preferences p {
+    margin-left: 120px;
+}
+
+.SettingsPane {
+    margin-top:36px;
+    margin-left:26px;
+    margin-right:26px;
+}
+
+.SettingsTitle {
+    margin-left: 36px;
+}
+
+.SettingsContent {
+     margin-top: 24px;
+}
+
+#preferences {
+     background-color: gray; 
+} 

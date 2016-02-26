@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|ARM">
+      <Configuration>Debug</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x86">
+      <Configuration>Debug</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|ARM">
+      <Configuration>Release</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x86">
+      <Configuration>Release</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>59d89597-867b-46bd-872b-c8ae391f573d</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0'">
+    <VisualStudioVersion>11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).Default.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).props" />
+  <PropertyGroup>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetPlatformVersion>8.0</TargetPlatformVersion>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <PackageCertificateKeyFile>DaftarMenuMakanan_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateThumbprint>B24788644B407908F2EDCCB330DFDAA28E8263A8</PackageCertificateThumbprint>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxPackageDir>C:\Users\Happiness\Desktop\IF4_MuseumGeologiBandung\</AppxPackageDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppxManifest Include="package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="DaftarMenuMakanan.pfx" />
+    <Content Include="css\default.css" />
+    <Content Include="data\license.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="data\Recipes.txt" />
+    <Content Include="images\DinosaurusCover.jpg" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\smalllogo.png" />
+    <Content Include="images\splashscreen.png" />
+    <Content Include="images\storelogo.png" />
+    <Content Include="images\tiles\Chinese_6_310_C.jpg" />
+    <Content Include="images\tiles\duadua.jpg" />
+    <Content Include="images\tiles\French_2_310_C.jpg" />
+    <Content Include="images\tiles\German_4_310_C.jpg" />
+    <Content Include="images\tiles\Italian_4_310_C.jpg" />
+    <Content Include="images\tiles\Italian_5_310_C.jpg" />
+    <Content Include="images\tiles\satusatu.jpg" />
+    <Content Include="images\W1\Map.gif" />
+    <Content Include="images\W1\W1.jpg" />
+    <Content Include="images\W1\W1Atmosfer.jpg" />
+    <Content Include="images\W1\W1BatuanTertua.jpg" />
+    <Content Include="images\W1\W1BatuKarang.jpg" />
+    <Content Include="images\W1\W1GempaBumiTsunami.jpg" />
+    <Content Include="images\W1\W1GeologiKelautan.jpg" />
+    <Content Include="images\W1\W1KawahMeteor.jpg" />
+    <Content Include="images\W1\W1LajurLipatan.jpg" />
+    <Content Include="images\W1\W1MalukuPalung.jpg" />
+    <Content Include="images\W1\W1Meteorit.jpg" />
+    <Content Include="images\W1\W1Nebula.jpg" />
+    <Content Include="images\W1\W1PetaTektir.jpg" />
+    <Content Include="images\W1\W1Tambang.jpg" />
+    <Content Include="images\W2\Map.gif" />
+    <Content Include="images\W2\W2.jpg" />
+    <Content Include="images\W2\W2BatuGunung.jpg" />
+    <Content Include="images\W2\W2CSumberDaya.jpg" />
+    <Content Include="images\W2\W2EvolusiDaratan.jpg" />
+    <Content Include="images\W2\W2ModelTinjauanGunung.jpg" />
+    <Content Include="images\W2\W2PergerakanLempeng.jpg" />
+    <Content Include="images\W2\W2PerPulau.jpg" />
+    <Content Include="images\W2\W2PetaGeotektonik.jpg" />
+    <Content Include="images\W2\W2PetaSemantikTematik.jpg" />
+    <Content Include="images\W2\W2SabukGApi.jpg" />
+    <Content Include="images\W2\W2SejarahGunungApi.jpg" />
+    <Content Include="images\W2\W2SumDayaMin.jpg" />
+    <Content Include="images\W2\W2Tektonik.jpg" />
+    <Content Include="images\W3\Map.gif" />
+    <Content Include="images\W3\W3.jpg" />
+    <Content Include="images\W3\W3BatubaraDelta.jpg" />
+    <Content Include="images\W3\W3MateriGunung.jpg" />
+    <Content Include="images\W3\W3PengaruhZonaSesar.jpg" />
+    <Content Include="images\W3\W3SebaranGunung.jpg" />
+    <Content Include="images\W3\W3TipeGunung.jpg" />
+    <Content Include="images\W4\Map.gif" />
+    <Content Include="images\W4\W4.jpg" />
+    <Content Include="images\W4\W4AmfibiReptil.jpg" />
+    <Content Include="images\W4\W4DinoKejam.jpg" />
+    <Content Include="images\W4\W4DinoRajaBumi.jpg" />
+    <Content Include="images\W4\W4DinoTerakhir.jpg" />
+    <Content Include="images\W4\W4EvoDino.jpg" />
+    <Content Include="images\W4\W4Invertebrata.jpg" />
+    <Content Include="images\W4\W4MunculHewan.jpg" />
+    <Content Include="images\W5\Map.gif" />
+    <Content Include="images\W5\W5.jpg" />
+    <Content Include="images\W5\W5Flora.jpg" />
+    <Content Include="images\W5\W5KehidupanPrasejarah.jpg" />
+    <Content Include="images\W5\W5KingdomHidup.jpg" />
+    <Content Include="images\W6\Map.gif" />
+    <Content Include="images\W6\W6.jpg" />
+    <Content Include="images\W6\W6KepalaHomosapien.jpg" />
+    <Content Include="images\W6\W6ManusiaPertama.jpg" />
+    <Content Include="images\W6\W6Rekonstruksi.jpg" />
+    <Content Include="images\W6\W6TeoriBumi.jpg" />
+    <Content Include="images\W7\Map.gif" />
+    <Content Include="images\W7\W7.jpg" />
+    <Content Include="images\W7\W7Air.jpg" />
+    <Content Include="images\W7\W7BatuBara.jpg" />
+    <Content Include="images\W7\W7MiniatureMinyak.jpg" />
+    <Content Include="images\W7\W7Minyak.jpg" />
+    <Content Include="images\W7\W7PanasBumi.jpg" />
+    <Content Include="images\WideLogo.png" />
+    <Content Include="js\data.js" />
+    <Content Include="js\default.js" />
+    <Content Include="js\navigator.js" />
+    <Content Include="pages\About\about.css" />
+    <Content Include="pages\About\about.html" />
+    <Content Include="pages\About\about.js" />
+    <Content Include="pages\itemDetail\itemDetail.css" />
+    <Content Include="pages\itemDetail\itemDetail.html" />
+    <Content Include="pages\itemDetail\itemDetail.js" />
+    <Content Include="pages\groupDetail\groupDetail.css" />
+    <Content Include="pages\groupDetail\groupDetail.html" />
+    <Content Include="pages\groupDetail\groupDetail.js" />
+    <Content Include="pages\groupedItems\groupedItems.css" />
+    <Content Include="pages\groupedItems\groupedItems.html" />
+    <Content Include="pages\groupedItems\groupedItems.js" />
+    <Content Include="default.html" />
+    <Content Include="pages\preferences\Preferences.css" />
+    <Content Include="pages\preferences\Preferences.html" />
+    <Content Include="pages\preferences\Preferences.js" />
+    <Content Include="pages\search\search.css" />
+    <Content Include="pages\search\search.html" />
+    <Content Include="pages\search\search.js" />
+    <None Include="DaftarMenuMakanan_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <SDKReference Include="Microsoft.WinJS.1.0, Version=1.0" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
+  <!-- To modify your build process, add your task inside one of the targets below then uncomment
+       that target and the DisableFastUpToDateCheck PropertyGroup. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <PropertyGroup>
+    <DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
+  </PropertyGroup>
+  -->
+</Project>

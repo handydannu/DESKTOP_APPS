@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Pengaturan</title>
+
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="Preferences.css" rel="stylesheet" />
+    <script src="Preferences.js"></script>
+</head>
+<body>
+    <div id="preferences" data-win-control="WinJS.UI.SettingsFlyout" data-win-options="{width: 'narrow'}">
+    <div class="SettingsPane">
+        <div class="win-label">
+            <button onclick="WinJS.UI.SettingsFlyout.show()" class="win-backbutton">
+            </button>
+            <span class="SettingsTitle">Pengaturan dan Bantuan</span>
+        </div>
+        <article class="SettingsContent">
+            <div id="remember" data-win-control="WinJS.UI.ToggleSwitch" data-win-options="{ title: 'Ingat Pilihan Terakhir Saya' }" />
+            <br />
+            <hr color="white" size="5" />
+            <h2>Bantuan</h2>
+            <p align="justify">1. Untuk share pilih konten, lalu arahkan kursor ke pojok kanan atas pilih "Share" kemudian pilih medianya. </p>
+            <p align="justify">2. Settingan "Ingat history terakhir" berfungsi untuk menyimpan history terakhir. Dimana jika aplikasi tertutup secara tidak sengaja, path terakhir tidak akan hilang. </p>
+            <p align="justify">3. Anda bisa menyimpan konten di ponsel anda dengan QR generator yang bisa dipilih di Share menu pilih Barcode lalu scan dengan smartphone anda. </p>
+            <p align="justify">4. Anda bisa mengirim pesan anda mengenai ketidaknyamanan anda mengenai konten dengan menekan tombol feedback pada sub konten. </p>
+            <hr color="white" size="5" />
+            <h2>Pengaturan</h2>
+        </article>
+    </div>
+</div>
+
+</body>
+</html>
